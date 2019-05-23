@@ -1,0 +1,171 @@
+NVIS_ID,VEGCODE,FOREST_STR,VEGCODE_D,VEG_GROUP,MAPUNT_IDE
+2000,RKP,Forest,(RKP) Athrotaxis selaginoides rainforest,Rainforest and related scrub,2000
+2001,RPP,Forest,(RPP) Athrotaxis cupressoides rainforest,Rainforest and related scrub,2001
+2002,RPF,Forest,(RPF) Athrotaxis cupressoides - Nothofagus gunnii short rainforest,Rainforest and related scrub,2002
+2003,RKF,Forest,(RKF) Athrotaxis selaginoides - Nothofagus gunnii short rainforest,Rainforest and related scrub,2003
+2004,RCO,Forest,(RCO) Coastal rainforest,Rainforest and related scrub,2004
+2005,RSH,Forest,(RSH) Highland low rainforest and scrub,Rainforest and related scrub,2005
+2006,RSH,Forest,(RSH) Highland low rainforest and scrub,Rainforest and related scrub,2006
+2007,RHP,Forest,(RHP) Lagarostrobos franklinii rainforest and scrub,Rainforest and related scrub,2007
+2008,RML,Forest,(RML) Nothofagus - Leptospermum short rainforest,Rainforest and related scrub,2008
+2009,RML,Forest,(RML) Nothofagus - Leptospermum short rainforest,Rainforest and related scrub,2009
+2010,RML,Forest,(RML) Nothofagus - Leptospermum short rainforest,Rainforest and related scrub,2010
+2011,RMT,Forest,(RMT) Nothofagus - Atherosperma rainforest,Rainforest and related scrub,2011
+2012,RMT,Forest,(RMT) Nothofagus - Atherosperma rainforest,Rainforest and related scrub,2012
+2013,RMT,Forest,(RMT) Nothofagus - Atherosperma rainforest,Rainforest and related scrub,2013
+2014,RMS,Forest,(RMS) Nothofagus - Phyllocladus short rainforest,Rainforest and related scrub,2014
+2015,RMS,Forest,(RMS) Nothofagus - Phyllocladus short rainforest,Rainforest and related scrub,2015
+2016,RMS,Forest,(RMS) Nothofagus - Phyllocladus short rainforest,Rainforest and related scrub,2016
+2017,RMS,Forest,(RMS) Nothofagus - Phyllocladus short rainforest,Rainforest and related scrub,2017
+2018,RMU,Forest,(RMU) Nothofagus rainforest (undifferentiated),Rainforest and related scrub,2018
+2019,RMU,Forest,(RMU) Nothofagus rainforest (undifferentiated),Rainforest and related scrub,2019
+2020,RFE,Forest,(RFE) Rainforest fernland,Rainforest and related scrub,2020
+2021,RKP,Other,(RKP) Athrotaxis selaginoides rainforest,Rainforest and related scrub,2021
+2022,RPP,Other,(RPP) Athrotaxis cupressoides rainforest,Rainforest and related scrub,2022
+2023,RPF,Other,(RPF) Athrotaxis cupressoides - Nothofagus gunnii short rainforest,Rainforest and related scrub,2023
+2024,RPF,Other,(RPF) Athrotaxis cupressoides - Nothofagus gunnii short rainforest,Rainforest and related scrub,2024
+2025,RKS,Other,(RKS) Athrotaxis selaginoides subalpine scrub,Rainforest and related scrub,2025
+2026,RCO,Other,(RCO) Coastal rainforest,Rainforest and related scrub,2026
+2027,RSH,Other,(RSH) Highland low rainforest and scrub,Rainforest and related scrub,2027
+2028,RSH,Other,(RSH) Highland low rainforest and scrub,Rainforest and related scrub,2028
+2029,RHP,Other,(RHP) Lagarostrobos franklinii rainforest and scrub,Rainforest and related scrub,2029
+2030,RML,Other,(RML) Nothofagus - Leptospermum short rainforest,Rainforest and related scrub,2030
+2031,RMT,Other,(RMT) Nothofagus - Atherosperma rainforest,Rainforest and related scrub,2031
+2032,RFS,Other,(RFS) Nothofagus gunnii rainforest and scrub,Rainforest and related scrub,2032
+2033,RMS,Other,(RMS) Nothofagus - Phyllocladus short rainforest,Rainforest and related scrub,2033
+2034,RMU,Other,(RMU) Nothofagus rainforest (undifferentiated),Rainforest and related scrub,2034
+2035,RFE,Other,(RFE) Rainforest fernland,Rainforest and related scrub,2035
+2036,RFE,Other,(RFE) Rainforest fernland,Rainforest and related scrub,2036
+2037,RKP,Woodland,(RKP) Athrotaxis selaginoides rainforest,Rainforest and related scrub,2037
+2038,RPF,Woodland,(RPF) Athrotaxis cupressoides - Nothofagus gunnii short rainforest,Rainforest and related scrub,2038
+2039,RSH,Woodland,(RSH) Highland low rainforest and scrub,Rainforest and related scrub,2039
+2040,RMU,Woodland,(RMU) Nothofagus rainforest (undifferentiated),Rainforest and related scrub,2040
+2041,NAR,Forest,(NAR) Acacia melanoxylon forest on rises,Non eucalypt forest and woodland,2041
+2042,NAR,Forest,(NAR) Acacia melanoxylon forest on rises,Non eucalypt forest and woodland,2042
+2043,NAR,Forest,(NAR) Acacia melanoxylon forest on rises,Non eucalypt forest and woodland,2043
+2044,NAF,Forest,(NAF) Acacia melanoxylon swamp forest,Non eucalypt forest and woodland,2044
+2045,NAF,Forest,(NAF) Acacia melanoxylon swamp forest,Non eucalypt forest and woodland,2045
+2046,NAF,Forest,(NAF) Acacia melanoxylon swamp forest,Non eucalypt forest and woodland,2046
+2047,NAR,Other,(NAR) Acacia melanoxylon forest on rises,Non eucalypt forest and woodland,2047
+2048,NAF,Other,(NAF) Acacia melanoxylon swamp forest,Non eucalypt forest and woodland,2048
+2049,NAR,Woodland,(NAR) Acacia melanoxylon forest on rises,Non eucalypt forest and woodland,2049
+2050,WBR,Forest,(WBR) Eucalyptus brookeriana wet forest,Wet eucalypt forest and woodland,2050
+2051,WDL,Forest,(WDL) Eucalyptus delegatensis forest over Leptospermum,Wet eucalypt forest and woodland,2051
+2052,WDB,Forest,(WDB) Eucalyptus delegatensis forest with broad-leaf shrubs,Wet eucalypt forest and woodland,2052
+2053,WDB,Forest,(WDB) Eucalyptus delegatensis forest with broad-leaf shrubs,Wet eucalypt forest and woodland,2053
+2054,WDR,Forest,(WDR) Eucalyptus delegatensis forest over rainforest,Wet eucalypt forest and woodland,2054
+2055,WDR,Forest,(WDR) Eucalyptus delegatensis forest over rainforest,Wet eucalypt forest and woodland,2055
+2056,WDU,Forest,(WDU) Eucalyptus delegatensis wet forest (undifferentiated),Wet eucalypt forest and woodland,2056
+2057,WOU,Forest,(WOU) Eucalyptus obliqua wet forest (undifferentiated),Wet eucalypt forest and woodland,2057
+2058,WOU,Forest,(WOU) Eucalyptus obliqua wet forest (undifferentiated),Wet eucalypt forest and woodland,2058
+2059,WBR,Other,(WBR) Eucalyptus brookeriana wet forest,Wet eucalypt forest and woodland,2059
+2060,WBR,Other,(WBR) Eucalyptus brookeriana wet forest,Wet eucalypt forest and woodland,2060
+2061,WDL,Other,(WDL) Eucalyptus delegatensis forest over Leptospermum,Wet eucalypt forest and woodland,2061
+2062,WDL,Other,(WDL) Eucalyptus delegatensis forest over Leptospermum,Wet eucalypt forest and woodland,2062
+2063,WDB,Other,(WDB) Eucalyptus delegatensis forest with broad-leaf shrubs,Wet eucalypt forest and woodland,2063
+2064,WDR,Other,(WDR) Eucalyptus delegatensis forest over rainforest,Wet eucalypt forest and woodland,2064
+2065,WDR,Other,(WDR) Eucalyptus delegatensis forest over rainforest,Wet eucalypt forest and woodland,2065
+2066,WDU,Other,(WDU) Eucalyptus delegatensis wet forest (undifferentiated),Wet eucalypt forest and woodland,2066
+2067,WOU,Other,(WOU) Eucalyptus obliqua wet forest (undifferentiated),Wet eucalypt forest and woodland,2067
+2068,WBR,Woodland,(WBR) Eucalyptus brookeriana wet forest,Wet eucalypt forest and woodland,2068
+2069,WBR,Woodland,(WBR) Eucalyptus brookeriana wet forest,Wet eucalypt forest and woodland,2069
+2070,WDL,Woodland,(WDL) Eucalyptus delegatensis forest over Leptospermum,Wet eucalypt forest and woodland,2070
+2071,WDB,Woodland,(WDB) Eucalyptus delegatensis forest with broad-leaf shrubs,Wet eucalypt forest and woodland,2071
+2072,WDR,Woodland,(WDR) Eucalyptus delegatensis forest over rainforest,Wet eucalypt forest and woodland,2072
+2073,WDU,Woodland,(WDU) Eucalyptus delegatensis wet forest (undifferentiated),Wet eucalypt forest and woodland,2073
+2074,WOU,Woodland,(WOU) Eucalyptus obliqua wet forest (undifferentiated),Wet eucalypt forest and woodland,2074
+2075,DSC,Forest,(DSC) Eucalyptus amygdalina - Eucalyptus obliqua damp sclerophyll forest,Dry eucalypt forest and woodland,2075
+2076,DSC,Other,(DSC) Eucalyptus amygdalina - Eucalyptus obliqua damp sclerophyll forest,Dry eucalypt forest and woodland,2076
+2077,DSC,Woodland,(DSC) Eucalyptus amygdalina - Eucalyptus obliqua damp sclerophyll forest,Dry eucalypt forest and woodland,2077
+2078,DGL,Forest,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2078
+2079,DGL,Forest,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2079
+2080,DGL,Forest,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2080
+2081,DAD,Forest,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2081
+2082,DAD,Forest,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2082
+2083,DAZ,Forest,(DAZ) Eucalyptus amygdalina inland forest and woodland on Cainozoic deposits,Dry eucalypt forest and woodland,2083
+2084,DCR,Forest,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2084
+2085,DCR,Forest,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2085
+2086,DCR,Forest,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2086
+2087,DCR,Forest,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2087
+2088,DCR,Forest,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2088
+2089,DDE,Forest,(DDE) Eucalyptus delegatensis dry forest and woodland,Dry eucalypt forest and woodland,2089
+2090,DDE,Forest,(DDE) Eucalyptus delegatensis dry forest and woodland,Dry eucalypt forest and woodland,2090
+2091,DNF,Forest,(DNF) Eucalyptus nitida Furneaux forest,Dry eucalypt forest and woodland,2091
+2092,DOB,Forest,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2092
+2093,DOB,Forest,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2093
+2094,DOB,Forest,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2094
+2095,DOB,Forest,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2095
+2096,DOV,Forest,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2096
+2097,DOV,Forest,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2097
+2098,DOV,Forest,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2098
+2099,DOV,Forest,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2099
+2100,DPO,Forest,(DPO) Eucalyptus pauciflora forest and woodland not on dolerite,Dry eucalypt forest and woodland,2100
+2101,DPD,Forest,(DPD) Eucalyptus pauciflora forest and woodland on dolerite,Dry eucalypt forest and woodland,2101
+2102,DRO,Forest,(DRO) Eucalyptus rodwayi forest and woodland,Dry eucalypt forest and woodland,2102
+2103,DSG,Forest,(DSG) Eucalyptus sieberi forest and woodland on granite,Dry eucalypt forest and woodland,2103
+2104,DSO,Forest,(DSO) Eucalyptus sieberi forest and woodland not on granite,Dry eucalypt forest and woodland,2104
+2105,DTD,Forest,(DTD) Eucalyptus tenuiramis forest and woodland on dolerite,Dry eucalypt forest and woodland,2105
+2106,DTD,Forest,(DTD) Eucalyptus tenuiramis forest and woodland on dolerite,Dry eucalypt forest and woodland,2106
+2107,DTG,Forest,(DTG) Eucalyptus tenuiramis forest and woodland on granite,Dry eucalypt forest and woodland,2107
+2108,DTO,Forest,(DTO) Eucalyptus tenuiramis forest and woodland on sediments,Dry eucalypt forest and woodland,2108
+2109,DVF,Forest,(DVF) Eucalyptus viminalis Furneaux forest and woodland,Dry eucalypt forest and woodland,2109
+2110,DGL,Other,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2110
+2111,DAD,Other,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2111
+2112,DAD,Other,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2112
+2113,DAD,Other,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2113
+2114,DAD,Other,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2114
+2115,DAZ,Other,(DAZ) Eucalyptus amygdalina inland forest and woodland on Cainozoic deposits,Dry eucalypt forest and woodland,2115
+2116,DAZ,Other,(DAZ) Eucalyptus amygdalina inland forest and woodland on Cainozoic deposits,Dry eucalypt forest and woodland,2116
+2117,DAZ,Other,(DAZ) Eucalyptus amygdalina inland forest and woodland on Cainozoic deposits,Dry eucalypt forest and woodland,2117
+2118,DCR,Other,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2118
+2119,DCR,Other,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2119
+2120,DCR,Other,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2120
+2121,DCR,Other,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2121
+2122,DDE,Other,(DDE) Eucalyptus delegatensis dry forest and woodland,Dry eucalypt forest and woodland,2122
+2123,DDE,Other,(DDE) Eucalyptus delegatensis dry forest and woodland,Dry eucalypt forest and woodland,2123
+2124,DNF,Other,(DNF) Eucalyptus nitida Furneaux forest,Dry eucalypt forest and woodland,2124
+2125,DNF,Other,(DNF) Eucalyptus nitida Furneaux forest,Dry eucalypt forest and woodland,2125
+2126,DOB,Other,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2126
+2127,DOB,Other,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2127
+2128,DOV,Other,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2128
+2129,DOV,Other,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2129
+2130,DPO,Other,(DPO) Eucalyptus pauciflora forest and woodland not on dolerite,Dry eucalypt forest and woodland,2130
+2131,DPO,Other,(DPO) Eucalyptus pauciflora forest and woodland not on dolerite,Dry eucalypt forest and woodland,2131
+2132,DPD,Other,(DPD) Eucalyptus pauciflora forest and woodland on dolerite,Dry eucalypt forest and woodland,2132
+2133,DRO,Other,(DRO) Eucalyptus rodwayi forest and woodland,Dry eucalypt forest and woodland,2133
+2134,DRO,Other,(DRO) Eucalyptus rodwayi forest and woodland,Dry eucalypt forest and woodland,2134
+2135,DSO,Other,(DSO) Eucalyptus sieberi forest and woodland not on granite,Dry eucalypt forest and woodland,2135
+2136,DTD,Other,(DTD) Eucalyptus tenuiramis forest and woodland on dolerite,Dry eucalypt forest and woodland,2136
+2137,DTG,Other,(DTG) Eucalyptus tenuiramis forest and woodland on granite,Dry eucalypt forest and woodland,2137
+2138,DTO,Other,(DTO) Eucalyptus tenuiramis forest and woodland on sediments,Dry eucalypt forest and woodland,2138
+2139,DGL,Woodland,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2139
+2140,DGL,Woodland,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2140
+2141,DGL,Woodland,(DGL) Eucalyptus globulus dry forest and woodland,Dry eucalypt forest and woodland,2141
+2142,DAD,Woodland,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2142
+2143,DAD,Woodland,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2143
+2144,DAD,Woodland,(DAD) Eucalyptus amygdalina forest and woodland on dolerite,Dry eucalypt forest and woodland,2144
+2145,DAZ,Woodland,(DAZ) Eucalyptus amygdalina inland forest and woodland on Cainozoic deposits,Dry eucalypt forest and woodland,2145
+2146,DCR,Woodland,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2146
+2147,DCR,Woodland,(DCR) Eucalyptus cordata forest,Dry eucalypt forest and woodland,2147
+2148,DDE,Woodland,(DDE) Eucalyptus delegatensis dry forest and woodland,Dry eucalypt forest and woodland,2148
+2149,DDE,Woodland,(DDE) Eucalyptus delegatensis dry forest and woodland,Dry eucalypt forest and woodland,2149
+2150,DNF,Woodland,(DNF) Eucalyptus nitida Furneaux forest,Dry eucalypt forest and woodland,2150
+2151,DOB,Woodland,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2151
+2152,DOB,Woodland,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2152
+2153,DOB,Woodland,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2153
+2154,DOB,Woodland,(DOB) Eucalyptus obliqua dry forest,Dry eucalypt forest and woodland,2154
+2155,DOV,Woodland,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2155
+2156,DOV,Woodland,(DOV) Eucalyptus ovata forest and woodland,Dry eucalypt forest and woodland,2156
+2157,DPO,Woodland,(DPO) Eucalyptus pauciflora forest and woodland not on dolerite,Dry eucalypt forest and woodland,2157
+2158,DPD,Woodland,(DPD) Eucalyptus pauciflora forest and woodland on dolerite,Dry eucalypt forest and woodland,2158
+2159,DRO,Woodland,(DRO) Eucalyptus rodwayi forest and woodland,Dry eucalypt forest and woodland,2159
+2160,DSG,Woodland,(DSG) Eucalyptus sieberi forest and woodland on granite,Dry eucalypt forest and woodland,2160
+2161,DSO,Woodland,(DSO) Eucalyptus sieberi forest and woodland not on granite,Dry eucalypt forest and woodland,2161
+2162,DTD,Woodland,(DTD) Eucalyptus tenuiramis forest and woodland on dolerite,Dry eucalypt forest and woodland,2162
+2163,DTD,Woodland,(DTD) Eucalyptus tenuiramis forest and woodland on dolerite,Dry eucalypt forest and woodland,2163
+2164,DTG,Woodland,(DTG) Eucalyptus tenuiramis forest and woodland on granite,Dry eucalypt forest and woodland,2164
+2165,DTO,Woodland,(DTO) Eucalyptus tenuiramis forest and woodland on sediments,Dry eucalypt forest and woodland,2165
+2166,DTO,Woodland,(DTO) Eucalyptus tenuiramis forest and woodland on sediments,Dry eucalypt forest and woodland,2166
+2167,DTO,Woodland,(DTO) Eucalyptus tenuiramis forest and woodland on sediments,Dry eucalypt forest and woodland,2167
+2168,DVF,Woodland,(DVF) Eucalyptus viminalis Furneaux forest and woodland,Dry eucalypt forest and woodland,2168
+2169,DVF,Woodland,(DVF) Eucalyptus viminalis Furneaux forest and woodland,Dry eucalypt forest and woodland,2169
